@@ -7,19 +7,27 @@ This project consists of two parts:
 2)Phishing Detection: Simulates an intrusion detection system (IDS) that monitors network traffic and alerts on suspicious activities.
 
 Requirements:
+
 1)Python 3.x
+
 2)SQLite3 (comes with Python)
+
 3)Scapy library (for the Phishing Detection part)
 
 Installation:
+
 1)Install Python 3
+
 Download and install Python 3 from the official website.
 
+
 2)Install scapy library (for Phishing Detection part):
+
 command : pip install scapy
 
 
 Usage
+
 1. Cyber Security and Database Manipulation
    
 Part 1: Cyber Security Simulation
@@ -36,5 +44,6 @@ Insert student data.
 Fetch and display the student data.
 
 2. Phishing Detection (Intrusion Detection System)
+3. 
 * Monitor network traffic and detect phishing attempts.
 * Send an alert upon detecting suspicious activity.
