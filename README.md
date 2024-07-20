@@ -44,6 +44,6 @@ Insert student data.
 Fetch and display the student data.
 
 2. Phishing Detection (Intrusion Detection System)
-3. 
+
 * Monitor network traffic and detect phishing attempts.
 * Send an alert upon detecting suspicious activity.
