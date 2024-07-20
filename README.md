@@ -3,6 +3,7 @@ Overview:
 This project consists of two parts:
 
 1)Cyber Security and Database Manipulation: Simulates accessing and manipulating a secure database.
+
 2)Phishing Detection: Simulates an intrusion detection system (IDS) that monitors network traffic and alerts on suspicious activities.
 
 Requirements:
